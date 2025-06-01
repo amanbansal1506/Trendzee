@@ -7,6 +7,7 @@
 ## 📸 Preview
 
 ![Trendzee Preview](Screenshot.png)
+https://trendzee-brown.vercel.app/
 
 ---
 
