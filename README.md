@@ -4,10 +4,10 @@
 
 ---
 
-## 📸 Preview
+## 📸 Preview -- https://trendzee-brown.vercel.app/
 
 ![Trendzee Preview](Screenshot.png)
-https://trendzee-brown.vercel.app/
+
 
 ---
 
